@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Nahidul Islam Siam</h1>
-<h3 align="center">🚀 Passionate Frontend Developer | 🌏 Based in Bangladesh</h3>
+<h3 align="center">🚀 Passionate Front End Developer | 🌏 Based in Bangladesh</h3>
 
 ---
 
@@ -26,7 +26,7 @@
 - 💻 **Frontend Enthusiast:** Focused on building elegant user interfaces.  
 - 🎨 **Design Lover:** Skilled in **Figma**, responsive design, and UI/UX.  
 - 📫 **Reach Me At:** [siamnahidul093@gmail.com](mailto:siamnahidul093@gmail.com)  
-- 📄 **My Resume:** [Click to View](https://drive.google.com/file/d/1oTGujjiuwF4O9Ok1rKrIv598nItsQhQH/view)  
+- 📄 **My Resume:** [Click to View](https://drive.google.com/file/d/1EVV4LZcpquAxFpy3RFkEniz5DRn2byNF/view?usp=sharing)  
 - ⚡ **Fun Fact:** I'm always debugging, even in my dreams!
 
 ---
