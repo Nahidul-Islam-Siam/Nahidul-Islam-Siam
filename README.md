@@ -3,12 +3,12 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Nahidul Islam Siam</h1>
-<h3 align="center">🚀 Passionate Front End Developer | 🌏 Based in Bangladesh</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer | 🌏 Based in Bangladesh</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+%7C+Problem+Solver;React+%7C+Next.js+%7C+TailwindCSS;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Problem+Solver;React+%7C+Next.js+%7C+Redux+%7C+TypeScript;Express+%7C+MongoDB+%7C+PostgreSQL;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </p>
 
 <div align="center">
@@ -19,12 +19,19 @@
 
 ### 🌟 **About Me**
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-FF6F61?style=for-the-badge&logo=developer&logoColor=white" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-1E90FF?style=for-the-badge&logo=developer&logoColor=white" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/React%20Specialist-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Specialist" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-- 💻 **Frontend Enthusiast:** Focused on building elegant user interfaces.  
+- 💻 **Full Stack Developer:** Crafting performant and scalable web applications with React, Next.js, Express, and databases like MongoDB & PostgreSQL.  
 - 🎨 **Design Lover:** Skilled in **Figma**, responsive design, and UI/UX.  
+- 🛠️ **Backend Experience:** Proficient in **Express**, **Mongoose**, and RESTful APIs.  
 - 📫 **Reach Me At:** [siamnahidul093@gmail.com](mailto:siamnahidul093@gmail.com)  
 - 📄 **My Resume:** [Click to View](https://drive.google.com/file/d/1EVV4LZcpquAxFpy3RFkEniz5DRn2byNF/view?usp=sharing)  
 - ⚡ **Fun Fact:** I'm always debugging, even in my dreams!
@@ -51,7 +58,7 @@
 
 ### 💻 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,nodejs,mongodb" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,figma,nodejs,express,mongodb,mongoose,postgres" alt="Tech Stack" />
 </p>
 
 ---
@@ -80,5 +87,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidul-islam-siam&theme=radical" alt="Streak Stats" />
 </div>
-
-
