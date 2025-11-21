@@ -24,7 +24,7 @@
 - 🎨 Passionate about **UI/UX**, clean design, and Figma  
 - ⚙️ Experienced in **REST APIs**, Mongoose, and backend engineering  
 - 📩 Reach Me: **siamnahidul093@gmail.com**  
-- 📄 Resume: **[View Here](https://drive.google.com/file/d/1EVV4LZcpquAxFpy3RFkEniz5DRn2byNF/view?usp=sharing)**  
+- 📄 Resume: **[View Here]([https://drive.google.com/file/d/1EVV4LZcpquAxFpy3RFkEniz5DRn2byNF/view?usp=sharing](https://drive.google.com/file/d/1JawDTsCfM5WFClsqZMCtUe2IZoIBsPXU/view?usp=sharing))**  
 - ⚡ Fun Fact: I even debug in my dreams! 😴💡
 
 ---
