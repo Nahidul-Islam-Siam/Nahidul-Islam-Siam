@@ -24,7 +24,7 @@
 - 🎨 Passionate about **UI/UX**, clean design, and Figma  
 - ⚙️ Experienced in **REST APIs**, Mongoose, and backend engineering  
 - 📩 Reach Me: **siamnahidul093@gmail.com**  
-- 📄 Resume: **[View Here]([https://drive.google.com/file/d/1EVV4LZcpquAxFpy3RFkEniz5DRn2byNF/view?usp=sharing](https://drive.google.com/file/d/1JawDTsCfM5WFClsqZMCtUe2IZoIBsPXU/view?usp=sharing)**  
+- 📄 Resume: **[View Here](https://drive.google.com/file/d/1JawDTsCfM5WFClsqZMCtUe2IZoIBsPXU/view?usp=sharing)**  
 - ⚡ Fun Fact: I even debug in my dreams! 😴💡
 
 ---
@@ -32,7 +32,7 @@
 ## 🔗 Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/nahidul-islam-siam"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
-  <a href="https://fb.com/nahidulislam.siam.397"><img src="https://skillicons.dev/icons?i=facebook" width="48"/></a>
+  <a href="https://www.facebook.com/nahidulislam.siam.39"><img src="https://skillicons.dev/icons?i=facebook" width="48"/></a>
   <a href="https://www.hackerrank.com/eub_cse_23_19"><img src="https://skillicons.dev/icons?i=hackerrank" width="48"/></a>
   <a href="https://leetcode.com/u/siam628/"><img src="https://skillicons.dev/icons?i=leetcode" width="48"/></a>
 </div>
@@ -80,4 +80,4 @@
 
 ---
 
-### ⭐ If you like my work, consider starring a repo — it motivates me!  
+### ⭐ If you like my work, consider starring a repo — it motivates me!
