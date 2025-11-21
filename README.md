@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats – Tokyo Night Edition
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nahidul-islam-siam&show_icons=true&theme=tokyonight&hide_border=true" width="55%" />
