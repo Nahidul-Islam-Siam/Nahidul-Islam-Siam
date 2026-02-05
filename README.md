@@ -28,7 +28,7 @@
 
 ## 🌟 About Me
 
-- 💻 I build **scalable full-stack apps** with React, Next.js, TypeScript, Express & MongoDB  
+- 💻 I build **scalable full-stack apps** with React, Next.js, Redux.Tailwind, TypeScript, Express, Prisma & MongoDB  
 - 🎨 I love **UI/UX**, Figma, and creating pixel-perfect interfaces  
 - ⚙️ Backend experience with **REST APIs, Mongoose, PostgreSQL**  
 - 📩 Email: **siamnahidul093@gmail.com**  
